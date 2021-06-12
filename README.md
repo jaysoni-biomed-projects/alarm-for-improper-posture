@@ -1,1 +1,1 @@
-# posture-correcting-device
+# alert-to-correct-posture
