@@ -7,5 +7,5 @@ Nowadays, amid this pandemic employees of the company implemented work from home
 ## Jumper wires.
 
 ### Connect the circuit as per the circuit diagram and run the given code on Arduino.
-###Suggestions and doubts are most welcome. 
+### Suggestions and doubts are most welcome. 
 ### Happy Coding!
